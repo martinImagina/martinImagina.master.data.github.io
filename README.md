@@ -1,4 +1,9 @@
-# master_data_2024
-Repositorio Github donde ubcar contenidos del máster data 2024
+# Master Data 2024 - Python Cheatsheet
 
-## Esto es una prueba
+CheatSheet creado para los alumnos del Master Data.
+
+## Ejemplo de Subtítulo de interés
+
+
+
+Todos los derechos reservados.
